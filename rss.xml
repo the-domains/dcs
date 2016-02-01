@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DCS]]></title>
+        <description><![CDATA[DCS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 14:43:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Unique Solutions for Real Business ValueIt seems like every technology company today calls itself a “solutions provider”. The problem is that many of them often try to shoehorn whatever challenge you are facing into the solution they are selling.  At Data Capture Solutions, we know it doesn’t work that way. We know that every industry has common challenges but we also understand that every company in that industry experiences those challenges differently, and therefore, every solution has to be unique.</p>]]></description>
+            <link>undefinedb5c30531-627a-48c3-b97b-d63642e06266/index.html</link>
+            <guid isPermaLink="false">b5c30531-627a-48c3-b97b-d63642e06266</guid>
+            <pubDate>Mon, 01 Feb 2016 14:42:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
